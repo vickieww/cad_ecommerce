@@ -4,6 +4,7 @@
 ### Descrição:
 
 O Formulário de Cadastro consiste em uma série de campos de preenchimento necessários para a utilização de uma plataforma posterior em outros sites.
+<img src="Capturar.PNG" alt="">
 
 ### Funcionalidades:
 
