@@ -6,7 +6,7 @@ const LimparFormulario = (endereco) =>{
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
-    document.getElementById('estado').value = ''; 
+    document.getElementById('estado').value = '';
     document.getElementById('nome').value = '';
     document.getElementById('sobrenome').value = '';
 }
