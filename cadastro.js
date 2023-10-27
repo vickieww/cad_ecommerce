@@ -29,7 +29,7 @@ const pesquisarcep = async() =>{
         const dados = await fetch(url);
         const addres = await dados.json();
         if(addres.hasOwnProperty('erro')){
-            alert('cep não encontrado'); 
+            alert('cep não encontrado');
     }else{
         preencheFormulario(addres);
     }
