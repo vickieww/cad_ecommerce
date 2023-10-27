@@ -8,7 +8,7 @@ O Formulário de Cadastro consiste em uma série de campos de preenchimento nece
 
 ### Funcionalidades:
 
-`Consulta de CEP`: o site, através das funções aplicadas no JavaScript, realiza uma busca de endereço com o número do CEP inserido pelo usuário.
+- `Consulta de CEP`: o site, através das funções aplicadas no JavaScript, realiza uma busca de endereço com o número do CEP inserido pelo usuário.
   
 - `Limpar campos preenchidos`: utiliza a Arrow Function e o método test que executa uma busca por uma correspondência entre uma expressão regular e uma string para limpar os campos preenchidos incorretamente, com número inválido de caracteres ou com caracteres que não são números.
 
