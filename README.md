@@ -29,3 +29,13 @@ Em sala de aula, uma pesquisa fora realizada para identificação de requisitos 
 Os sites consultados foram os seguintes:
 
 Após a identificação dos requisitos NOME COMPLETO,  CONFIRMAR SENHA e CONFIRMAR EMAIL, seguimos para a implementação dessas áreas em nosso formulário.
+
+### ✒️Autores 
+
+Ana Paula  
+[Acesse o GitHub](https://github.com/anapaulacd)  
+Vitória Gabrieli  
+[Acesse o GitHub](https://github.com/vickieww)  
+Orientador Leonardo Rocha  
+[Acesse o GitHub](https://github.com/LeonardoRochaMarista)
+
