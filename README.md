@@ -28,7 +28,22 @@ Em sala de aula, uma pesquisa fora realizada para identificação de requisitos 
 
 Os sites consultados foram os seguintes:
 
+`Marisa` 
+`Americanas` 
+`Ponto Frio`
+
 Após a identificação dos requisitos NOME COMPLETO,  CONFIRMAR SENHA e CONFIRMAR EMAIL, seguimos para a implementação dessas áreas em nosso formulário.
+
+### Ferramentas Utilizadas
+
+`VS Code`
+`Bootstrap`
+
+### Programação
+
+`JavaScript`
+`HTML`
+`CSS`
 
 ### ✒️Autores 
 
