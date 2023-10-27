@@ -32,7 +32,7 @@ Após a identificação dos requisitos NOME COMPLETO,  CONFIRMAR SENHA e CONFIRM
 
 ### ✒️Autores 
 
-Larissa Manrique
+Larissa Manrique. 
 [Acesse o GitHub](https://github.com/larissassk)  
 Ana Paula  
 [Acesse o GitHub](https://github.com/anapaulacd)  
