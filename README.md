@@ -1,8 +1,5 @@
 # Formulário de cadastro com consulta de CEP e preenchimento automático
 
-### Consulte o site:
-
-[Projeto Ecommerce](https://vickieww.github.io/cad_ecommerce/)
 
 ### Descrição:
 
@@ -18,23 +15,16 @@ O Formulário de Cadastro consiste em uma série de campos de preenchimento nece
 
 - `Tela adaptável`: a tela se adapta a diversos dispositivos conforme o site do bootstrap.
   
-  - `CEP encontrado`: ao informar um CEP válido, o site consultará os dados de que correspondem ao CEP dentro da ViaCep e preencherá os campos restantes.
+- `CEP encontrado`: ao informar um CEP válido, o site consultará os dados de que correspondem ao CEP dentro da ViaCep e preencherá os campos restantes.
 
 - `CEP não encontrado`: ao informar um CEP não existente, o site informará que o CEP não foi encontrado.
 
 - `CEP inválido`: ao inserir um número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
-
-![gif](imgs/telaJeto.gif)
 
 ### Pesquisa:
 
 Em sala de aula, uma pesquisa fora realizada para identificação de requisitos necessários para incrementar nosso cadastro de endereço.
 
 Os sites consultados foram os seguintes:
-
-![gif](imgs/Gravando-2023-10-25-123949.gif)
-
-
-![img](telaPesquisa.img) 
 
 Após a identificação dos requisitos NOME COMPLETO,  CONFIRMAR SENHA e CONFIRMAR EMAIL, seguimos para a implementação dessas áreas em nosso formulário.
